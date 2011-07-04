@@ -1,3 +1,5 @@
+require 'simplecov'
+SimpleCov.start
 require 'test/unit'
 require 'intended_uri'
 require 'session_mock'
