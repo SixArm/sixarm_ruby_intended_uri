@@ -32,6 +32,7 @@ Require:
 ## Example
 
     require "sixarm_ruby_intended_uri"
+
     class ApplicationController
 
       include IntendedUri
