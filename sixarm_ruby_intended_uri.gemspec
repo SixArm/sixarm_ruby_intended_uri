@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
 
   s.name              = "sixarm_ruby_intended_uri"
-  s.summary           = "SixArm Ruby Gem: get and set a user's request URI in the Rails session array"
+  s.summary           = "SixArm.com » Ruby » Intended URI will get and set a user's request URI in the Rails session array"
   s.version           = "1.0.4"
   s.author            = "SixArm"
   s.email             = "sixarm@sixarm.com"
