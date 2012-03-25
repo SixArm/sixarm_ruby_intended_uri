@@ -1,6 +1,7 @@
 # SixArm.com » Ruby » <br> IntendedUri to manage a user's URI in a Rails session
 
-* Docs: <http://sixarm.com/sixarm_ruby_intended_uri/doc>
+* Doc: <http://sixarm.com/sixarm_ruby_intended_uri/doc>
+* Gem: <http://rubygems.org/gems/sixarm_ruby_intended_uri>
 * Repo: <http://github.com/sixarm/sixarm_ruby_intended_uri>
 * Email: Joel Parker Henderson, <joel@sixarm.com>
 
