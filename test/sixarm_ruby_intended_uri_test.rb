@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
-require 'minitest/autorun'
-require 'simplecov'
+require "minitest/autorun"
+require "simplecov"
 SimpleCov.start
-require 'intended_uri'
-require 'session_mock'
-require 'uri'
+require "intended_uri"
+require "session_mock"
+require "uri"
 
 class IntendedUriTest < Test::Unit::TestCase
 

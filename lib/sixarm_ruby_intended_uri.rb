@@ -4,7 +4,7 @@ Please see README
 =end
 
 
-require 'uri'
+require "uri"
 
 class IntendedUri
 
