@@ -6,7 +6,7 @@ require "intended_uri"
 require "session_mock"
 require "uri"
 
-class IntendedUriTest < Test::Unit::TestCase
+class IntendedUriTest < Minitest::Test
 
  include IntendedUri
 
